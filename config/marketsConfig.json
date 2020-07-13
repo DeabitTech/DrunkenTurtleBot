@@ -1,0 +1,38 @@
+[
+  {
+    "tradedCurrency": {
+      "symbol": "BNB",
+      "tradablePortion": 0
+    },
+    "mainCurrency": {
+      "symbol": "BTC",
+      "tradablePortion": 0
+    },
+    "needsRestart": false,
+    "isActive": true
+  },
+  {
+    "tradedCurrency": {
+      "symbol": "DOGE",
+      "tradablePortion": 0
+    },
+    "mainCurrency": {
+      "symbol": "BNB",
+      "tradablePortion": 0
+    },
+    "needsRestart": false,
+    "isActive": true
+  },
+  {
+    "tradedCurrency": {
+      "symbol": "BTC",
+      "tradablePortion": 0
+    },
+    "mainCurrency": {
+      "symbol": "USDT",
+      "tradablePortion": 0
+    },
+    "needsRestart": false,
+    "isActive": false
+  }
+]

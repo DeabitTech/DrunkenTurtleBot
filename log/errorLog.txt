@@ -1,0 +1,12 @@
+Status crashed and the following exception or error was raised:
+	BinanceAPIException(<Response [401]>)
+	Session ID: s000afq
+	Current or previous Status ID: 657
+	1594639266
+	2020-07-13 13:21:06
+Status crashed and the following exception or error was raised:
+	BinanceAPIException(<Response [401]>)
+	Session ID: s000aaa
+	Current or previous Status ID: 001
+	1594643567
+	2020-07-13 14:32:47

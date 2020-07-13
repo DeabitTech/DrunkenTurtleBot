@@ -1,0 +1,14 @@
+{
+    "idTypes": {
+        "session": {
+            "format": "s000aaa",
+            "parentType": "",
+            "lastRecord": "s000aaa"
+        },
+        "status": {
+            "format": "001",
+            "parentType": "session",
+            "lastRecord": ""
+        }
+    }
+}

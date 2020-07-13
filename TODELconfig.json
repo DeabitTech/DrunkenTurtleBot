@@ -1,0 +1,23 @@
+{
+  "clientInfo": {
+    "accountName": "",
+    "accountDescription": "",
+    "email_address": "",
+    "api_key": "",
+    "encrypted api_key": "",
+    "api_secret": "",
+    "encrypted secret_key": ""
+  },
+  "idHandling": {
+    "session": {
+      "format": "a00a",
+      "inherits": [],
+      "lastRecord": ""
+    },
+    "status": {
+      "format": "000",
+      "inherits": ["session"],
+      "lastRecord": ""
+    }
+  }
+}

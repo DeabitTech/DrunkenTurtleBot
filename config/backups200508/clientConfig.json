@@ -1,0 +1,32 @@
+{
+  "clientNames":
+  {
+    "clientOne":
+    {
+      "email_address": "",
+      "api_key":
+      {
+        "value": "",
+        "encrypted": "False"
+      },
+      "api_secret":
+      {
+        "value": "",
+        "encrypted": "False"
+      },
+      "restricions":
+      {
+        "absoluteTotalTradingLimitInBTC":
+        {
+          "value": "",
+          "encrypted": "False"
+        },
+        "expirationDate":
+        {
+          "value": "",
+          "encrypted": "False"
+        }
+      }
+    }
+  }
+}

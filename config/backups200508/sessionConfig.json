@@ -1,0 +1,20 @@
+{
+  "sessionData":
+  {
+    "marketsBuffer": [
+      {
+        "tradedCurrency": { "BNB": { "tradablePortion": 0 } },
+        "mainCurrency": { "BTC": { "tradablePortion": 0 } }
+      },
+      {
+        "tradedCurrency": { "DOGE": { "tradablePortion": 0 } },
+        "mainCurrency": { "BTC": { "tradablePortion": 0 } }
+      },
+      {
+        "tradedCurrency": { "BTC": { "tradablePortion": 0 } },
+        "mainCurrency": { "USDT": { "tradablePortion": 0 } }
+      }
+    ]
+  },
+  "help": ""
+}
